@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Button.qml</file>
+        <file>Rect.qml</file>
+        <file>TextBox.qml</file>
+        <file>RotateRect.qml</file>
+        <file>myJS.js</file>
+        <file>Rect1.qml</file>
+        <file>Rect2.qml</file>
+        <file>Rect3.qml</file>
+        <file>Rect4.qml</file>
+        <file>OtherAnimation.qml</file>
+    </qresource>
+</RCC>
